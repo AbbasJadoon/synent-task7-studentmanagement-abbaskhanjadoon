@@ -1,0 +1,20 @@
+[
+    {
+        "roll": "10",
+        "name": "Abbas Khan Jadoon",
+        "age": "23",
+        "department": "CS"
+    },
+    {
+        "roll": "2",
+        "name": "Ali Khan",
+        "age": "23",
+        "department": "CS"
+    },
+    {
+        "roll": "3",
+        "name": "Talal",
+        "age": "23",
+        "department": "CS"
+    }
+]
